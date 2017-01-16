@@ -1,0 +1,17 @@
+{
+  "name": "websocket",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Rafael Frank <rafael.frank@sap.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
